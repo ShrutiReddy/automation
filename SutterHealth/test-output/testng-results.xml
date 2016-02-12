@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14332" started-at="2016-02-05T19:54:11Z" finished-at="2016-02-05T19:54:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14332" started-at="2016-02-05T19:54:11Z" finished-at="2016-02-05T19:54:25Z">
+      <class name="com.test.DoctorsPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="beforeSuite" is-config="true" duration-ms="3272" started-at="2016-02-05T11:54:07Z" finished-at="2016-02-05T11:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="start()[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="start" is-config="true" duration-ms="1982" started-at="2016-02-05T11:54:11Z" finished-at="2016-02-05T11:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="testDropDown()[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="testDropDown" duration-ms="2983" started-at="2016-02-05T11:54:13Z" finished-at="2016-02-05T11:54:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropDown -->
+        <test-method status="PASS" signature="end(org.testng.ITestResult)[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="end" is-config="true" duration-ms="0" started-at="2016-02-05T11:54:16Z" finished-at="2016-02-05T11:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDropDown status=SUCCESS method=DoctorsPageTest.testDropDown()[pri:0, instance:com.test.DoctorsPageTest@337d0578] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="acceptingResults()[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="acceptingResults" duration-ms="3434" started-at="2016-02-05T11:54:16Z" finished-at="2016-02-05T11:54:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptingResults -->
+        <test-method status="PASS" signature="end(org.testng.ITestResult)[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="end" is-config="true" duration-ms="1" started-at="2016-02-05T11:54:19Z" finished-at="2016-02-05T11:54:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=acceptingResults status=SUCCESS method=DoctorsPageTest.acceptingResults()[pri:0, instance:com.test.DoctorsPageTest@337d0578] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="testChildWindowTitke()[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="testChildWindowTitke" duration-ms="5919" started-at="2016-02-05T11:54:19Z" finished-at="2016-02-05T11:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChildWindowTitke -->
+        <test-method status="PASS" signature="end(org.testng.ITestResult)[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="end" is-config="true" duration-ms="0" started-at="2016-02-05T11:54:25Z" finished-at="2016-02-05T11:54:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testChildWindowTitke status=SUCCESS method=DoctorsPageTest.testChildWindowTitke()[pri:0, instance:com.test.DoctorsPageTest@337d0578] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.test.DoctorsPageTest@337d0578]" name="afterSuite" is-config="true" duration-ms="171" started-at="2016-02-05T11:54:25Z" finished-at="2016-02-05T11:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.test.DoctorsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

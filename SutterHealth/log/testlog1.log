@@ -1,0 +1,14 @@
+2016-02-01 20:35:51,997 [main] INFO com.pages.PortalPage - HeaderList text name = Find a Doctor
+2016-02-01 20:35:52,057 [main] INFO com.pages.PortalPage - HeaderList text name = Locations
+2016-02-01 20:35:52,094 [main] INFO com.pages.PortalPage - HeaderList text name = Services
+2016-02-01 20:35:52,115 [main] INFO com.pages.PortalPage - HeaderList text name = For Patients
+2016-02-01 20:35:52,141 [main] INFO com.pages.PortalPage - HeaderList text name = Health Information
+2016-02-01 20:35:52,175 [main] INFO com.pages.PortalPage - HeaderList text name = Ways To Give
+2016-02-04 22:57:00,667 [main] INFO com.pages.PortalPage - HeaderList text name = Find a Doctor
+2016-02-04 22:57:00,687 [main] INFO com.pages.PortalPage - HeaderList text name = Locations
+2016-02-04 22:57:00,704 [main] INFO com.pages.PortalPage - HeaderList text name = Services
+2016-02-04 22:57:00,722 [main] INFO com.pages.PortalPage - HeaderList text name = For Patients
+2016-02-04 22:57:00,738 [main] INFO com.pages.PortalPage - HeaderList text name = Health Information
+2016-02-04 22:57:00,757 [main] INFO com.pages.PortalPage - HeaderList text name = Ways To Give
+2016-02-05 11:54:19,676 [main] INFO com.test.DoctorsPageTest - Priority2 Test
+2016-02-05 11:54:25,601 [main] INFO com.test.DoctorsPageTest - Priority3 Test
