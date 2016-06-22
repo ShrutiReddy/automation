@@ -38,6 +38,14 @@ public class HomePage extends PortalPage{
 		
 		return lis;
 	}
+	
+	public  void endpage(){
+		WebElement s=driver.findElements(By.className("")).
+		s.getAttribute("").equals(anObject);
+		
+	
+		
+	}
 
 
 

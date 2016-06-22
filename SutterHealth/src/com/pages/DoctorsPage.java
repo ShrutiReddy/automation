@@ -80,7 +80,9 @@ public class DoctorsPage extends BasePage {
 		Iterator<String> it = pages.iterator();
 		String parentWindow = it.next();
 		String childWindow = it.next();
+		
 		driver.switchTo().window(childWindow);
+		
 		return driver.getTitle();
 
 	}
